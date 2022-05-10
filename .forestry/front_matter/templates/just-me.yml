@@ -10,5 +10,6 @@ fields:
   showOnly:
     field: sound
     value: true
+  description: sound on/off
 pages:
 - just.md

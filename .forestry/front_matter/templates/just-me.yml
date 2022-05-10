@@ -1,6 +1,6 @@
 ---
 label: Just me
-hide_body: false
+hide_body: true
 fields:
 - name: sound
   type: boolean

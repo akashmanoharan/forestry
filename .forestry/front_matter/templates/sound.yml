@@ -1,4 +1,8 @@
 ---
 label: Sound
 hide_body: false
-fields: []
+fields:
+- name: sound
+  type: boolean
+  label: Sound
+  default: true

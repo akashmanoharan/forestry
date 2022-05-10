@@ -1,6 +1,14 @@
 ---
 label: Just me
 hide_body: false
-fields: []
+fields:
+- name: sound
+  type: boolean
+  label: sound
+  hidden: false
+  default: true
+  showOnly:
+    field: sound
+    value: true
 pages:
 - just.md

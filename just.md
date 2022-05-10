@@ -3,4 +3,4 @@
 ---
 ## Hello everyone!!!!
 
-<img src="/uploads/cabbage.jpg">
+/uploads/cabbage.jpg

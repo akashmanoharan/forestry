@@ -4,5 +4,5 @@ hide_body: false
 fields:
 - name: sound
   type: boolean
-  label: Sound
   default: true
+  label: Readme

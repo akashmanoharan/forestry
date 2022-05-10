@@ -6,3 +6,5 @@ fields:
   type: boolean
   default: true
   label: Readme
+pages:
+- README.md
